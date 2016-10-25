@@ -1,3 +1,6 @@
-just making sure this file adds to my new git profile
+deleted first line
 
-Writing explicit commit messages is important 
+writing explicit commit messages is important 
+
+adding a line
+
