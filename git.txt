@@ -1,2 +1,4 @@
 this is a file with words
-in it 
+in it...
+
+creating a conflict
